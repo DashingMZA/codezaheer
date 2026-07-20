@@ -1,26 +1,19 @@
-<h1 align="center">Hi. I'm Pranav M S</h1>
+<h1 align="center">Hi. I'm Zaheer 👋</h1>
 
 
-<h4 align="center">Open-Source Development with JS, Python and Go <br> I like working on new ideas for Web3 + GenAI</h4>
+<h4 align="center">Open-Source Development with JS, Python and PHP<br> & I like working on new ideas</h4>
 
-<p align="center"><a href="https://pranavms.dev/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
-
+<p align="center"><a href="https://zaheer.info/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 
 # 💫 About Me
-🔭 I’m currently working as a Software Engineer at <a href="https://blueyonder.com">BlueYonder</a><br><br>🌱 I’m currently learning GenAI<br><br>👯 My Fun Fact is i make music<br><br>🤝 I’m available for collaboration on any Projects<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br><br>📫 Reach me at <a href="mailto:contact@pranavms.dev">contact@pranavms.dev</a>
+🔭 I’m currently working as a Software Engineer at <a href="https://csofts.com">cSofts Inc.</a><br>🌱 I’m currently learning Back-End Development<br>👯 I’m looking to collaborate<br>🤝  I’m looking so much focused<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br>📫 How to reach me: whatsapp +923126910010<br>😄 Facebook : https://www.facebook.com/dashing.mza<br>⚡ Do follow or connect with me; I'm open to suggestions and collaborations.
 
 
 ## 🌐 Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pranavms13)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01ad5c93ccc48a040c)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranavms13) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pranavms13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavms13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pranavms13) 
-
-
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-pranavms13-%23000000?logo=hackerrank)](https://hackerrank.com/pranavms13)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-pranavms13-%23000000?logo=hackthebox)](https://app.hackthebox.com/profile/269741)
-[![Steam](https://img.shields.io/badge/Steam-pranavms13-%23000000?logo=steam)](https://steamcommunity.com/id/pranavms13/)
-
 
 
 
@@ -41,15 +34,3 @@
 | **Testing & QA** | ![Codacy](https://img.shields.io/badge/Codacy-222F29?logo=codacy&logoColor=fff) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff) ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff) |
 | **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) |
 | **Markup & Data Formats** | ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff) |
-
-
-## Stats
-
-| 🅰️ Top Languages | 📊 GitHub Stats |
-|-------------------|--------------------------|
-| ![](https://github-stats-five-tau.vercel.app/api/top-langs/?username=pranavms13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-stats-five-tau.vercel.app/api?username=pranavms13&theme=dark&hide_border=false&include_all_commits=true&count_private=true) |
-
-
-#### 💰 Sponsor ?
-| [![pranavms.dev/sponsor](https://img.shields.io/badge/pranavms.dev-/sponsor-orange)](https://pranavms.dev/sponsor) | [![Ethereum](https://img.shields.io/badge/Ethereum-pranavms.eth-black?logo=ethereum&logoColor=white)](ethereum:pay-pranavms.eth) | [![UPI](https://img.shields.io/badge/UPI-pranavms%40fifederal-black?logo=fi)](upi://pay?pa=pranavms@fifederal&cu=INR&pn=Pranav%20M%20S&tn=Donation%20pranavms.dev) |
-|--|--|--|
