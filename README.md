@@ -1,19 +1,18 @@
 <h1 align="center">Hi. I'm Zaheer 👋</h1>
 
 
-<h4 align="center">Open-Source Development with JS, Python and PHP<br> & I like working on new ideas</h4>
+<h4 align="center">Open-Source Development with JS, Python and PHP ❤️<br> & I like working on new ideas</h4>
 
 <p align="center"><a href="https://zaheer.info/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 
 # 💫 About Me
-🔭 I’m currently working as a Software Engineer at <a href="https://csofts.com">cSofts Inc.</a><br>🌱 I’m currently learning Back-End Development<br>👯 I’m looking to collaborate<br>🤝  I’m looking so much focused<br><br>💬 Ask me about anything. I'll try my best to answer it. 😁<br>📫 How to reach me: whatsapp +923126910010<br>😄 Facebook : https://www.facebook.com/dashing.mza<br>⚡ Do follow or connect with me; I'm open to suggestions and collaborations.
+🔭 I’m currently working as a Software Engineer at <a href="https://csofts.com">cSofts Inc.</a><br>🌱 I’m currently learning Back-End Development<br>👯 I’m looking to collaborate<br>🤝  I’m looking so much focused<br>💬 Ask me about anything. I'll try my best to answer it. 😁<br>📫 How to reach me: whatsapp +923126910010<br>😄 Facebook : https://www.facebook.com/dashing.mza<br>⚡ Do follow or connect with me; I'm open to suggestions and collaborations.
 
 
 ## 🌐 Connect
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pranavms13)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01ad5c93ccc48a040c)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranavms13) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pranavms13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavms13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pranavms13) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dashing.mza)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dashing_zb)
 
 
 
